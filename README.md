@@ -3,8 +3,8 @@
 I'm a passionate AI Developer exploring the exciting world of intelligent systems. I love building things that learn and adapt!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-1117&show_icons=true&theme=cobalt" alt="Nazmul's Profile" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul-1117&theme=cobalt" alt="Nazmul's Profile" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-1117&show_icons=true&theme=cobalt" alt="Nazmul's Profile" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul-1117&theme=cobalt" alt="Nazmul's Profile" width="48%"/>
 </p>
 
 ## What I Do
