@@ -26,7 +26,7 @@ I specialize in Machine Learning and Deep Learning, with a focus on creating inn
   <img src="https://img.shields.io/badge/Pandas-expert-blue?logo=pandas&logoColor=150458" height="25">
   <img src="https://img.shields.io/badge/C/C++-expert-heighlight?logo=cplusplus&logoColor=00599C" height="25">
   <img src="https://img.shields.io/badge/AutoCAD-basic-E51050?logo=autocad&logoColor=E51050" height="25">
-  <img src="https://img.shields.io/badge/AutoCAD-expert-FF6F00?logo=tensorflow&logoColor=FF6F00" height="25">
+  <img src="https://img.shields.io/badge/Tensorflow-expert-FF6F00?logo=tensorflow&logoColor=FF6F00" height="25">
 </p>
 
 
