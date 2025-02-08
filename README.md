@@ -7,6 +7,12 @@ I'm a passionate AI Developer exploring the exciting world of intelligent system
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul-1117&theme=cobalt" alt="Nazmul's Profile" width="48%"/>
 </p>
 
+<p align="center">
+  
+  ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-1117)
+</p>
+
+
 ## What I Do
 
 I specialize in Machine Learning and Deep Learning, with a focus on creating innovative AI applications. My toolkit includes Python (and its powerful libraries like Pandas, NumPy, Matplotlib, and Seaborn), but I also enjoy working with C/C++, Java, and even a bit of Assembly Language for those low-level challenges.  I also have experience with AutoCAD, GitHub, and statistical analysis. I'm always eager to learn new technologies and push the boundaries of what's possible.
@@ -15,12 +21,6 @@ I specialize in Machine Learning and Deep Learning, with a focus on creating inn
 ## Technologies I Work With
 
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/AWS-Expert-black" alt="AWS Expert" width="75">
-  <img src="https://img.shields.io/badge/AWS-Expert-black" alt="AWS Expert" width="75">
-  <img src="https://img.shields.io/badge/AWS-Expert-black" alt="AWS Expert" width="75">
-  <img src="https://img.shields.io/badge/AWS-Expert-black" alt="AWS Expert" width="75">
-  <img src="https://img.shields.io/badge/AWS-Expert-black" alt="AWS Expert" width="75">
-  <img src="https://img.shields.io/badge/AWS-Expert-black" alt="AWS Expert" width="75"> -->
   <img src="https://img.shields.io/badge/Python-expert-yellow?logo=python&logoColor=yellow" height="25">
   <img src="https://img.shields.io/badge/Numpy-expert-red?logo=numpy&logoColor=013243" height="25">
   <img src="https://img.shields.io/badge/Pandas-expert-blue?logo=pandas&logoColor=150458" height="25">
@@ -31,15 +31,8 @@ I specialize in Machine Learning and Deep Learning, with a focus on creating inn
 </p>
 
 
-### WakaTime
+## WakaTime
 [![wakatime](https://wakatime.com/badge/user/fd60cad2-50ca-47ab-9c36-5027c68e75bc.svg)][def]
-
-<!-- ###
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div> -->
 
 
 [def]: https://wakatime.com/@fd60cad2-50ca-47ab-9c36-5027c68e75bc
