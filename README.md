@@ -10,6 +10,7 @@ I'm a passionate AI Developer exploring the exciting world of intelligent system
 <p align="center">
   
   ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-1117)
+  ![Nazmul's Wakatime](https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=nazmul_1117&layout=compact&langs_count=8&theme=nord)
 </p>
 
 
