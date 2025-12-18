@@ -1,6 +1,8 @@
-# Hi There! 👋 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAyZm4wN2pmNXM5NGZwaWIyNHNzeWN4eDV1MHhlMThueGQ2bXg2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqgD6bocRHhEjamBPA/giphy.gif" width="40" height="30">
+# 👋 Hi, I’m Md. Nazmul Hossain <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAyZm4wN2pmNXM5NGZwaWIyNHNzeWN4eDV1MHhlMThueGQ2bXg2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqgD6bocRHhEjamBPA/giphy.gif" width="40" height="30">
 
-  I'm <strong>Md. Nazmul Hossain</strong> — an <b>AI Developer</b> passionate about building intelligent systems that learn and adapt! 🤖<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=00bfff&center=true&vCenter=true&width=780&lines=AI+%7C+ML+%7C+DL+%7C+GenAI+Engineer;GenAI+%7C+LLM+Engineer;Building+with+Transformers+%26+Neural+Networks;From+Models+to+Intelligent+Systems" />
+</p>
 
 <p align="center">
   <a href="https://x.com/@nazmul_1117"><img src="https://img.shields.io/badge/X(Twitter)-Connect-blue?logo=x&style=flat-square" /></a>
@@ -8,8 +10,117 @@
   <a href="223002089@student.green.ac.bd"><img src="https://img.shields.io/badge/Email-Contact-648c11?logo=gmail&style=flat-square" /></a>
 </p>
 
-<!-- 🧑‍💻 GitHub Stats and Streak -->
-<h2>🚀 GitHub Stats & Streak</h2>
+---
+
+## 🧠 About Me
+
+I’m a **Generative AI & Large Language Model (LLM) focused engineer** with strong foundations in **Machine Learning and Deep Learning**.
+
+I enjoy designing systems that **understand, generate, and reason with data** — from classical ML pipelines to modern transformer-based architectures.
+
+* 🤖 Focused on **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**
+* 🔬 Frameworks: **TensorFlow, Keras, PyTorch**
+* 🧠 LLM Stack: **LangChain, Hugging Face, Transformers**
+* 🌱 Outside tech: **gardening, nature, wildlife photography**
+* 😴 Debugging break = *quality sleep*
+
+> *“Passion fuels consistency, and consistency builds mastery.”*
+
+---
+
+## 🚀 What I’m Working On
+
+* 🔬 Machine Learning & Deep Learning models
+* 🧠 Neural Networks, CNNs, classical ML pipelines
+* 🧩 Data analysis, feature engineering & experimentation
+* 🤖 Exploring **Generative AI & LLM-based systems**
+* 📓 Research-oriented notebooks and academic projects
+
+## 🤖 What I Build in GenAI
+
+* 🧠 **LLM-powered applications** (prompt pipelines, chains, agents)
+* 📚 **Transformer-based models** for NLP tasks
+* 🔍 **Retrieval-Augmented Generation (RAG)** systems
+* 🧪 Model fine-tuning & experimentation
+* 📓 Research-driven notebooks and reproducible experiments
+
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🔥 Core Deep Learning Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-Neural%20Networks-D00000?logo=keras" />
+</p>
+
+### 🧠 LLM & Generative AI Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Orchestration-1C3C3C" />
+  <img src="https://img.shields.io/badge/Transformers-NLP-6B46C1" />
+</p>
+
+### 📊 Data Science & Machine Learning Foundations
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn" />
+</p>
+
+
+### 🧰 Development & Research Environment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-Research-F37626?logo=jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-GPU%20Labs-F9AB00?logo=googlecolab" />
+  <img src="https://img.shields.io/badge/VS%20Code-Engineering-007ACC?logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?logo=github" />
+</p>
+
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Systems-00599C?logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Assembly-x86-6E4C13" />
+  <img src="https://img.shields.io/badge/R-Statistics-276DC3?logo=r&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Data Storage
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />
+</p>
+
+### 🌐 Web & Scripting Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white" />
+</p>
+
+### 📐 Scientific & Engineering Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB%2FOctave-Modeling-0076A8?logo=octave" />
+</p>
+
+---
+
+
+
+## 📊 GitHub & Coding Activity
 
 <table>
   <tr>
@@ -40,10 +151,9 @@
   </tr>
 </table>
 
-<br />
+---
 
-<!-- 🌐 Language & Wakatime Stats -->
-<h2>🌐 Most Used Languages & Wakatime Activity</h2>
+## 🌐 Most Used Languages & Coding Activity
 
 <table>
   <tr>
@@ -84,40 +194,30 @@
   </tr>
 </table>
 
+---
 
+## ⏱️ WakaTime
 
-## 💼 What I Do
-
-🎯 I specialize in **Machine Learning** and **Deep Learning**, building adaptive systems using:
-- Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras)
-- C/C++, Java, MATLAB/OCTAVE, Assembly
-- Tools: AutoCAD, GitHub, Jupyter, etc.
-
-🧠 Always pushing the limits of AI, modeling, and creative data insight.
+[![wakatime](https://wakatime.com/badge/user/fd60cad2-50ca-47ab-9c36-5027c68e75bc.svg)](https://wakatime.com/@fd60cad2-50ca-47ab-9c36-5027c68e75bc)
 
 ---
 
+## 🌿 Beyond Code
 
-## 🛠️ Technologies I Work With
+* 🌱 Gardening & green living
+* 📷 Wildlife & nature photography
+* 🧠 Deep thinking & continuous learning
+
+---
+
+## 👀 Profile Views
 
 <p align="center">
-<!-- Languages and Framework -->
-  <img src="https://img.shields.io/badge/Python-expert-da9100?logo=python&logoColor=yellow" height="25">
-  <img src="https://img.shields.io/badge/Numpy-expert-008080?logo=numpy&logoColor=7fffd4" height="25">
-  <img src="https://img.shields.io/badge/Pandas-expert-blue?logo=pandas&logoColor=eee600" height="25">
-  <img src="https://img.shields.io/badge/Scikit--Learn-basic-4051B5?logo=scikitlearn&logoColor=ffdf00" height="25">
-  <img src="https://img.shields.io/badge/Tensorflow-basic-FF6F00?logo=tensorflow&logoColor=FF6F00" height="25">
-    <img src="https://img.shields.io/badge/Keras-expert-D00000?logo=keras&logoColor=00ccff" height="25">
-  <img src="https://img.shields.io/badge/C/C++-expert-heighlight?logo=cplusplus&logoColor=b9f2ff " height="25">
-  <img src="https://img.shields.io/badge/Octave-expert-0790C0?logo=octave&logoColor=00ffef" height="25">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/AutoCAD-intermediate-E51050?logo=autocad&logoColor=ffd700" height="25">
-  <img src="https://img.shields.io/badge/GitHub-intermediate-ff4500?logo=github&logoColor=0000000" height="25">
+  <img src="https://komarev.com/ghpvc/?username=nazmul-1117&label=Profile%20views&style=flat&color=blue" />
 </p>
 
+--- 
 
-## ⏱️ WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/fd60cad2-50ca-47ab-9c36-5027c68e75bc.svg)][def]
-
-
-[def]: https://wakatime.com/@fd60cad2-50ca-47ab-9c36-5027c68e75bc
+<p align="center">
+  <strong>⚡ Always learning. Always building. Always evolving.</strong>
+</p>
