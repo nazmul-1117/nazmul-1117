@@ -49,76 +49,17 @@ I enjoy designing systems that **understand, generate, and reason with data** �
 
 ## 🛠️ Tech Stack & Tools
 
-### 🔥 Core Deep Learning Frameworks
+**Programming Languages**: Python, Java, C / C++, Assembly (x86), R, JavaScript
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-Neural%20Networks-D00000?logo=keras" />
-</p>
+**AI/ML**: PyTorch, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph
 
-### 🧠 LLM & Generative AI Ecosystem
+**Data Science**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-LLM%20Orchestration-1C3C3C" />
-  <img src="https://img.shields.io/badge/Transformers-NLP-6B46C1" />
-</p>
+**Databases**: MySQL, MongoDB, ChromaDB, FAISS
 
-### 📊 Data Science & Machine Learning Foundations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn" />
-</p>
-
-
-### 🧰 Development & Research Environment
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-Research-F37626?logo=jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-GPU%20Labs-F9AB00?logo=googlecolab" />
-  <img src="https://img.shields.io/badge/VS%20Code-Engineering-007ACC?logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?logo=github" />
-</p>
-
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Primary-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Systems-00599C?logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Assembly-x86-6E4C13" />
-  <img src="https://img.shields.io/badge/R-Statistics-276DC3?logo=r&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Data Storage
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />
-</p>
-
-### 🌐 Web & Scripting Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white" />
-</p>
-
-### 📐 Scientific & Engineering Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB%2FOctave-Modeling-0076A8?logo=octave" />
-</p>
+**Tools & Environment**: Git, GitHub, Jupyter Notebook, Google Colab, Linux, Bash, VS Code, LateX, AutoCAD
 
 ---
-
-
 
 ## 📊 GitHub & Coding Activity
 
