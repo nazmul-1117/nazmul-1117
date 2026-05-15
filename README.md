@@ -16,7 +16,7 @@
 
 I’m a **Generative AI & Large Language Model (LLM) focused engineer** with strong foundations in **Machine Learning and Deep Learning**.
 
-I enjoy designing systems that **understand, generate, and reason with data** — from classical ML pipelines to modern transformer-based architectures.
+I enjoy designing systems that **understand, generate, and reason with data** from classical ML pipelines to modern transformer-based architectures.
 
 * 🤖 Focused on **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**
 * 🔬 Frameworks: **TensorFlow, Keras, PyTorch**
@@ -38,9 +38,9 @@ I enjoy designing systems that **understand, generate, and reason with data** �
 
 ## 🤖 What I Build in GenAI
 
-* 🧠 **LLM-powered applications** (prompt pipelines, chains, agents)
-* 📚 **Transformer-based models** for NLP tasks
-* 🔍 **Retrieval-Augmented Generation (RAG)** systems
+* 🧠 LLM-powered applications (prompt pipelines, chains, agents)
+* 📚 Transformer-based models for NLP tasks
+* 🔍 Retrieval-Augmented Generation (RAG) systems
 * 🧪 Model fine-tuning & experimentation
 * 📓 Research-driven notebooks and reproducible experiments
 
@@ -49,15 +49,13 @@ I enjoy designing systems that **understand, generate, and reason with data** �
 
 ## 🛠️ Tech Stack & Tools
 
-**Programming Languages**: Python, Java, C / C++, Assembly (x86), R, JavaScript
-
-**AI/ML**: PyTorch, TensorFlow, Keras, Transformers, Hugging Face, LangChain, LangGraph
-
-**Data Science**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy
-
-**Databases**: MySQL, MongoDB, ChromaDB, FAISS
-
-**Tools & Environment**: Git, GitHub, Jupyter Notebook, Google Colab, Linux, Bash, VS Code, LateX, AutoCAD
+* **Programming Languages**: Python, Java, C, C++, Assembly (x86), JavaScript, Shell Script, GDScript, MATLAB/Octave
+* **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn
+*  **LLM / Generative AI**: GeminiAI API, Transformers, Hugging Face, LangChain, LangGraph, Prompt Engineering, RAG, Fine-tuning (LoRA / QLoRA), Vector Embeddings, AI Agents
+* **Data Science**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy
+* **Databases**: MySQL, MongoDB, PostgresQL ChromaDB
+* **Backend**: FastAPI, REST APIs
+* **Tools & Environment**: Git, GitHub, Jupyter Notebook, Linux, Bash, VS Code, LaTeX, AutoCAD, Godot Engine 4.7, Canva
 
 ---
 
